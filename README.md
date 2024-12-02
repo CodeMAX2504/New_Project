@@ -1,3 +1,4 @@
 # New_Project
-This is First Git Repository
+This is my First Git Repository.
+<br>
 Author-Mintu Nandi
